@@ -7,9 +7,10 @@
 
 ## 🚀 Projects
 Here are a few projects I've been working on:
-- **[Music Profile App](link-to-your-project)**: A platform for users to showcase their music profiles, connect with others, and collaborate on musical projects.
-- **[Calendar Scheduling System](link-to-your-project)**: A scheduling tool for events during the Summer Olympics, built in C, utilizing a hashmap for efficient event management.
-- **[Sellorita](link-to-your-project)**: My SaaS startup focused on AI marketing solutions that generate ads and promotional content.
+- **[Symphony Connect](https://github.com/CShah44/Symphony-Connect)**: A platform for users to showcase their music profiles, connect with others, and collaborate on musical projects.
+- **[MERN Social Media App](link-to-your-project)**: A scheduling tool for events during the Summer Olympics, built in C, utilizing a hashmap for efficient event management.
+- **[Sellorita](https://github.com/CShah44/Sellorita)**: AI marketing assistant that generates ads and promotional content.
+- **[Furnify](https://github.com/Chaitya-S/Furnify)**: A game-changing 3D furniture experience website. Our platform redefines online shopping, offering immersive visualization and interactive features for unparalleled user engagement and satisfaction.
 
 ## 🛠️ Skills
 ### Web Development
