@@ -1,39 +1,77 @@
-# 👋 Hi there, I'm Chaitya!
+<h1 align="center">Hi, I'm Chaitya Shah 👋</h1>
 
-## 🌱 About Me
-- I'm a web developer currently pursuing my undergraduate degree.
-- Passionate about AI, ML, web development, and game development.
-- Currently exploring and learning AI-based apps and doing awesome projects!
+<p align="center">
+  🚀 Builder | 🎨 Designer | 📚 Learner | 💡 Problem Solver <br>
+  Third-year Undergrad @ IIIT Bangalore | AI, Creativity & Hackathons Enthusiast
+</p>
 
-## 🚀 Projects
-Here are a few projects I've been working on:
-- **[Symphony Connect](https://github.com/CShah44/Symphony-Connect)**: A platform for users to showcase their music profiles, connect with others, and collaborate on musical projects.
-- **[MERN Social Media App](link-to-your-project)**: A Social Media app allowing users to post, comment, like, follow others and chat with realtime chat functionality.
-- **[Sellorita](https://github.com/CShah44/Sellorita)**: AI marketing assistant that generates ads and promotional content.
-- **[Furnify](https://github.com/Chaitya-S/Furnify)**: A game-changing 3D furniture experience website. Our platform redefines online shopping, offering immersive visualization and interactive features for unparalleled user engagement and satisfaction.
+---
 
-## 🛠️ Skills
-### Web Development
-- React, Next.js, Node.js, Flask, Express, Streamlit, FastAPI (currently exploring)
+### 🧠 About Me
 
-### AI
-- LangChain with Python, Vercel AI, LLMs, Stability AI, GeminiAPI
+- 🎓 I'm currently pursuing Integrated MTech at **IIIT Bangalore**.
+- 🛠️ I love building products at the intersection of **AI**, **design**, and **innovation**.
+- 🤝 Participated in multiple hackathons; was the national runner-up at **WAVES Summit 2025** out of 5600+ teams at the TruthTell Hackathon organised by ICEA. 
 
-### Game Development
-- Unity3D
+---
 
-### Languages
-- JavaScript, TypeScript, Python, C++, C, C#, Java
+### 📊 Stats & Badges
 
-### Databases
-- Firebase, MongoDB
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chaityashah&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/chaityashah?label=Follow&style=social" />
+</p>
 
-### Tools
-- Pusher, Clerk, Vercel, Sanity, Hugging Face, TailwindCSS, Socket.IO, Uploadthing
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chaityashah&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaityashah&layout=compact&theme=radical" height="170" />
+</p>
 
-## 🤝 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/chaitya-shah-0a7589267/)
-- [Twitter](https://x.com/chaitya_4)
+---
 
-## 💬 Let's Collaborate!
-I'm always open to collaborating on exciting projects and hackathons. Feel free to reach out!
+### 🚀 Projects I'm Proud Of
+
+#### 🧑‍🏫 Rancho — Your AI Tutor
+> An **AI-powered tutor** that teaches students using intuitive videos, interactive quizzes, and smart concept breakdowns — all in one place.
+> - EdTech SaaS product
+> - Designed for modern learners
+> - Launching soon on Product Hunt 🚀
+
+#### 🕵️ Nexus of Truth — Fact Checking Portal
+> A powerful AI agent designed to **identify misinformation** by combining:
+> - **Realtime** news checking pipelines
+> - Verified data sources + semantic understanding
+> - A **chain-of-thought verifier** that breaks down claims into verifiable facts
+> - Built during the **Truthtell Hackathon**, secured **2nd place nationally**
+> - Showcased at **WAVES Summit 2025** out of 5600+ teams
+
+#### ⚡ High-Frequency Trading Simulator
+> Simulated a HFT environment using:
+> - C++ for core strategies like **Market Making**
+> - Java GUI linked via **JNI**
+> - Maintains a Limit Order Book
+> - Open to expanding strategies like arbitrage and more
+
+---
+
+### 🎨 Creative Side
+
+- 👕 Designer for my college’s **Cultural Fest (Infin8)** and **Tech Fest**
+- 🧠 Core team member of **TEDxIIITB** (Confluence IIITB)
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,js,ts,react,nextjs,tailwind,postgres,mysql,git,figma" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,vscode,linux,vercel,nodejs,html,css,github,postman" />
+</p>
+
+<p align="center">
+  🧠 Also exploring: <strong>LangChain · LangGraph · Framer Motion</strong>
+</p>
+
