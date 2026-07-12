@@ -26,13 +26,13 @@
 ::-:   *#*++=-:..:-=**=:.:-::::::::::-.   =%###***   
 ::::  .++====-:::-::*#+::-::::.::...:::  .=*###***   Hobbies.Building: ............. Hackathons, AI agents,
 :---...-+=::--:.  ::*%%+: .:.. ...    :  -:.+#*##*                                    SaaS side-projects
-:. -**:-=====--::=--%@%#=:.:--====-:..:-::-:=*****   Hobbies.Design: ................ Event branding, Figma
+:. -**:-=====--::=--%@%#=:.:--====-:..:-::-:=***** 
 -::*-#+===*#*++++=-#%%%#*=:::::---::--=--.:-:+**#*   
 .-=++#*#+**+++===*%@@%#**+++-:::----+==--::::+#**#   Contact ------------------------------------
-:--=%+*%#%*=+=--+%####**++==----=+++===-:---=****#   Email: ......................... chaityashah1302@gmail.com
--:-:##%%###*+=-=+*+-::--:.  .:.::-+++===*+++******   GitHub: ........................ github.com/chaityashah
---:.*@@**#**+::+#%#*+==-:::--=-:. -=====####******   LinkedIn: ...................... <add-your-linkedin-url>
-:.. :-:.:#*#+ :===+++*****++*: :-:=+====%%%%%#****   Portfolio: ..................... <add-your-portfolio-url>
+:--=%+*%#%*=+=--+%####**++==----=+++===-:---=****#   Email: ......................... chaityanirmal.shah@iiitb.ac.in
+-:-:##%%###*+=-=+*+-::--:.  .:.::-+++===*+++******   GitHub: ........................ github.com/CShah44
+--:.*@@**#**+::+#%#*+==-:::--=-:. -=====####******   LinkedIn: ...................... https://www.linkedin.com/in/chaitya-shah-0a7589267/
+:.. :-:.:#*#+ :===+++*****++*: :-:=+====%%%%%#****   Portfolio: ..................... https://chaitya-shah.vercel.app/
    :.    +##*-++--=*###**+==-::--=+++==-#%#%%###**   
    :.    .###*#@@%#%%%##**+-=+====+++=--+#***###**   
 :...     ..+**#%%%%##***+++++========---=****###**   
@@ -52,18 +52,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chaityashah&style=flat-square&color=blueviolet" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/chaityashah?label=Follow&style=social" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaityashah&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaityashah&layout=compact&theme=dracula&hide_border=true" height="170" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaityashah&theme=dracula&hide_border=true" height="170" />
 </p>
 
 ---
@@ -133,8 +121,8 @@
 ---
 
 <p align="center">
-  📫 <a href="mailto:chaityashah1302@gmail.com">chaityashah1302@gmail.com</a>
-  &nbsp;•&nbsp; <a href="https://github.com/chaityashah">GitHub</a>
+  📫 <a href="mailto:chaityanirmal.shah@iiitb.ac.in">chaityanirmal.shah@iiitb.ac.in</a>
+  &nbsp;•&nbsp; <a href="https://github.com/CShah44">GitHub</a>
   &nbsp;•&nbsp; <!-- add your LinkedIn -->
   &nbsp;•&nbsp; <!-- add your portfolio -->
 </p>
